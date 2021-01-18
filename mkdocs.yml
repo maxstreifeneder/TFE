@@ -26,3 +26,31 @@ nav:
       - Starter Kit: data_mgmt_analytics/datamgmt.md
       - Hands-on: data_mgmt_analytics/analytics.md
       - Use Case: data_mgmt_analytics/analytics.md
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  # PyMdown Extensions Documentation: https://facelessuser.github.io/pymdown-extensions/extensions/betterem/
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.tabbed
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.caret
