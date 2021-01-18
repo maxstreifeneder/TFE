@@ -1,4 +1,4 @@
-# Extension2
+# Hands-on: Set-up & examples with Kyma Runtime
 
 Lorem Ipsum
 

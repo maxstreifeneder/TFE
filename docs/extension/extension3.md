@@ -1,4 +1,4 @@
-# Hands-on: Set-up & examples with CAP	
+# Hands-on: Set-up & examples with ABAP Runtime
 
 Lorem Ipsum
 

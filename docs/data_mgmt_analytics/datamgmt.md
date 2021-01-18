@@ -1,4 +1,4 @@
-# Data Management
+# Hands-on: Setup and examples with data integration/federation
 
 Lorem Ipsum
 

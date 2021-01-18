@@ -1,4 +1,4 @@
-# Integration
+# Hands-on: CPI
 
 The UI5 Build Extensibility enables you to enhance the build process of any UI5 project. In addition to the [standard tasks](../Builder.md#standard-tasks), custom tasks can be created.
 

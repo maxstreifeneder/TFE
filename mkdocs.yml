@@ -15,17 +15,22 @@ nav:
     - Onboarding:
       - Overview: onbording/onbording.md
     - Integration:
-      - Starter Kit: integration/integration.md
-      - Hands-on: integration/integration.md
-      - Use Case: integration/integration.md
+      - Starter Kit: integration/starterkit.md
+      - Hands-on Setup and examples with API Management: integration/apimng.md
+      - Hands-on CPI: integration/cpi.md
+      - Hands-on Open Connectors: integration/openconnectors.md
+      - Use Case: integration/usecase.md
     - Extension:
-      - Starter Kit: extension/extension1.md
-      - Hands-on: extension/extension2.md
-      - Use Case: extension/extension2.md
+      - Starter Kit: extension/starterkit.md
+      - Hands-on Set-up & examples with CAP : extension/extension1.md
+      - Hands-on Set-up & examples with Kyma Runtime : extension/extension2.md
+      - Hands-on Set-up & examples with ABAP Runtime : extension/extension3.md
+      - Use Case: extension/usecase.md
     - Data Mgmt & Analytics:
-      - Starter Kit: data_mgmt_analytics/datamgmt.md
-      - Hands-on: data_mgmt_analytics/analytics.md
-      - Use Case: data_mgmt_analytics/analytics.md
+      - Starter Kit: data_mgmt_analytics/starterkit.md
+      - Hands-on Modeling: data_mgmt_analytics/analytics.md
+      - Hands-on Setup and examples with data integration/federation: data_mgmt_analytics/datamgmt.md
+      - Use Case: data_mgmt_analytics/usecase.md
 
 plugins:
   - search
