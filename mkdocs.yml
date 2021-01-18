@@ -1,0 +1,11 @@
+site_name: TFE
+site_url: 'https://pages.github.tools.sap/D061763/TFE/' # required for working 404 page
+repo_name: 'D061763/TFE'
+repo_url: 'https://github.tools.sap/D061763/TFE'
+docs_dir: 'docs' # default
+site_dir: 'site' # default
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue'
+    accent: 'blue'
