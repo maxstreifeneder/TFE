@@ -9,3 +9,20 @@ theme:
   palette:
     primary: 'blue'
     accent: 'blue'
+nav:
+    - Home: index.md
+    - About: about.md
+    - Onboarding:
+      - Overview: onbording/onbording.md
+    - Integration:
+      - Starter Kit: integration/integration.md
+      - Hands-on: integration/integration.md
+      - Use Case: integration/integration.md
+    - Extension:
+      - Starter Kit: extension/extension1.md
+      - Hands-on: extension/extension2.md
+      - Use Case: extension/extension2.md
+    - Data Mgmt & Analytics:
+      - Starter Kit: data_mgmt_analytics/datamgmt.md
+      - Hands-on: data_mgmt_analytics/analytics.md
+      - Use Case: data_mgmt_analytics/analytics.md
